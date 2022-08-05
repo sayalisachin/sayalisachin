@@ -3,7 +3,6 @@
 - 🏀 I love Basketball.
 - 🌱 I’m currently learning Coding.
 - ❤ I’m looking forward to collaborate on our Future Endeavors!
-print ("Toodles!")
 
 <!---
 sayalisachin/sayalisachin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
