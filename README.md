@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sayalisachin.
+- 👋 Hi, I’m Sayali Sachin.
 - 👀 I’m interested in Reading, Blogging, Writing, Designing.
 - 🏀 I love Basketball.
-- 🌱 I’m currently learning Coding.
+- 🌱 I’m currently learning Coding in Java and C.
 - ❤ I’m looking forward to collaborate on our Future Endeavors!
 
 <!---
