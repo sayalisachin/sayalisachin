@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  <br><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI5NjFpbDg4OGp6Ymh4NjdtZzJ3cm1ib2JocmRtNXM4cWFrbzF3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9B8dqzmFI0yujEjfgg/giphy.gif" width="100"/>  <br><br>
   <img src="https://komarev.com/ghpvc/?username=sayalisachin&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZmNnA3dXY4NzBwM2E4aTVjZW5zMXFkZmUxdzVveW12bHBhOGM1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="600" height="300"/>
 </div>
 
 # 💫 About Me:
