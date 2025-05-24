@@ -14,7 +14,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m a pregrad at MIT Manipal, India.<br>🌱 Exploring Front-End Development, UI/UX and Generative AI.<br>⚡ In my free time, I read books & listen to music.
+🔭 I’m a pregrad at MIT Manipal, India.<br>🌱 Exploring Front-End Development, UI/UX and Generative AI.<br>⚡ In my free time, I read books, game & listen to music.
 
 
 
