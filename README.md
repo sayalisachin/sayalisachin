@@ -14,7 +14,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m a grad at MIT Manipal, India.<br>🌱 Exploring Front-End Development, UI/UX and Generative AI.<br> I am currently exploring game development! <br>⚡ In my free time, I read books, game & listen to music.
+🔭 I’m a grad at MIT Manipal, India.<br>🌱 Exploring Front-End Development, UI/UX and Generative AI.<br>⚡ In my free time, I read books, game & listen to music.
 
 
 
