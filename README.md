@@ -29,8 +29,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sayalisachin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayalisachin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sayali%20Sachin&section=header&fontSize=70&textBg=false)
-
 
 </div>
 
